@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**IbraJVD/IbraJVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ibrahim Valdelamar, un apasionado por el desarollo en todo su explendor, quiero seguir creciendo como desarrollador y como hoy di mis primeros pasos en Git que puedas ver todo mi proceso de autoaprendizaje personal. Aquí encontrarás información sobre mis proyectos, habilidades y más. Ven, no te lo pierdad!!
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JpTc
+- y mas.
+
+## Habilidades
+
+- Lenguajes de programación: HTML, CSS, Java, Python, JavaScript
+- Tecnologías: aun sigo aprendiendo.
+- Herramientas: Git, VS Code, Visual Estudio, NetBeans.
+
+¡No dudes en explorar mi perfil y conectarte conmigo! 😊
+
